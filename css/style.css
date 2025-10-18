@@ -491,6 +491,10 @@ span{
         display: block;
     }
 
+    .carousel-track {
+        animation-duration: 12s; 
+    }
+
     .navbar{
         position: absolute;
         top: 100%;
